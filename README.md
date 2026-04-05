@@ -11,8 +11,8 @@ My current tech stack includes **HTML, CSS, and JavaScript**. My favorite tools 
 I’m currently working through my degree at **MMDC**, focusing on project-based learning to prepare for the industry.
 
 **Fun Facts:**
-* 🏎️ Massive F1 fan — Proudly supporting **Scuderia Ferrari** 🏎️ 🏁
-* 🏁 **CL16** and **LH44** 🏎️💨
-* 🎮 I play competitive games — I love the grind and the strategy.
-* 🐾 Huge animal lover (I love cats and dogs!).
+* 🏎️ Massive F1 fan supporting **Scuderia Ferrari** 🏎️ 🏁
+* 🏁 Representing **CL16** and **LH44** 🏎️💨
+* 🎮 I play competitive games, I love the grind and the strategy
+* 🐾 Huge animal lover, I love cats and dogs!
 * 🚀 Aiming to become a professional Software Engineer
