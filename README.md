@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**kyunhn/kyunhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Jairo]**, a Software Engineering student at **Mapúa Malayan Colleges Laguna (MMCL)**.
 
-Here are some ideas to get you started:
+I focus on learning how to design and build efficient software solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about clean code and logical thinking. If I have a project in mind, I work hard to build it and ship it.
+
+My current tech stack includes **HTML, CSS, and JavaScript**. My favorite tools are **VS Code** and **Git**.
+
+I’m currently working through my degree at **MMDC**, focusing on practical, project-based learning to prepare for the industry.
+
+**Fun Facts:**
+* 🎮 I play competitive games (I love the grind and the strategy)
+* 🚀 Aiming to become a professional Software Engineer
+* ☕ [Insert your favorite drink] is my coding fuel
